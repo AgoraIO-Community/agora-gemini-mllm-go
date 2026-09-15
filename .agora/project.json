@@ -1,0 +1,7 @@
+{
+  "projectId": "ndjnrJm99s",
+  "projectName": "Testing",
+  "region": "global",
+  "template": "go",
+  "envPath": "server/.env.local"
+}
